@@ -1,0 +1,31 @@
+{
+  "name": "amd-define-factory-patcher-loader",
+  "version": "1.0.0",
+  "description": "AMD define factory patcher loader modeul for webpack",
+  "main": "index.js",
+  "author": "Alexander O'Mara",
+  "copyright": "Copyright (c) 2015 Alexander O'Mara",
+  "license": {
+    "type": "MPL 2.0",
+    "url": "http://mozilla.org/MPL/2.0/"
+  },
+  "homepage": "https://github.com/AlexanderOMara/amd-define-factory-patcher-loader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexanderOMara/amd-define-factory-patcher-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexanderOMara/amd-define-factory-patcher-loader/issues"
+  },
+  "scripts": {},
+  "files": [
+    "index.js",
+    "LICENSE.txt",
+    "README.md"
+  ],
+  "dependencies": {
+    "escodegen": "^1.6.1",
+    "esprima": "^2.1.0",
+    "estraverse": "^3.1.0"
+  }
+}
